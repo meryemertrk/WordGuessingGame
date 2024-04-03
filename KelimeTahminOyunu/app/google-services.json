@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596483150718",
+    "project_id": "kullanicibilgileri-f2096",
+    "storage_bucket": "kullanicibilgileri-f2096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596483150718:android:1668da35828a2281a0192f",
+        "android_client_info": {
+          "package_name": "com.example.kelimetahminoyunu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSsGp0uVhxfJPKJwFeKUfk3qbLCPtPAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
